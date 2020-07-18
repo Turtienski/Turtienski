@@ -12,7 +12,7 @@ Meu nome é Renato Turtienski e:
 
 - ⚡ Fato divertido: toco violão mas sou péssimo cantor, por isso preferi partir pra música clássica. 
 
-- :email: você pode me contatar por email por renatoturtienskipossa@gmail.com
+- :email: você pode me contatar por email, renatoturtienskipossa@gmail.com
 
 <!--
 **Turtienski/Turtienski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
