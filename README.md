@@ -10,7 +10,7 @@ Meu nome é Renato Turtienski e:
 
 - 🤔 Estou procurando ajuda em estatística, algoritmos e estruturação de dados, matemática a gente dá um jeito, tem muito material bom no Youtube! 
 
-- ⚡ Fato divertido: toco violão mas sou péssimo cantor, por isso preferi partir pra música clássica. 
+- ⚡ Fato divertido: toco violão mas sou péssimo cantor, por isso preferi partir pra música clássica. Gosto muito de xadrez, mas estudar xadrez é outra história...  
 
 - :email: você pode me contatar por email, renatoturtienskipossa@gmail.com
 
