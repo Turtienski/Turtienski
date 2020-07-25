@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo ao mu GitHub 👋
+### Olá, seja bem-vindo ao meu GitHub 👋
 
 Meu nome é Renato Turtienski e:
 
