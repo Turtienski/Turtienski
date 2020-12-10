@@ -2,7 +2,7 @@
 
 Meu nome é Renato Turtienski e:
 
-- 🔭 Atualmente trabalho no Itaú-Unibanco, com geração, manutenção e análise de indicadores operacionais. 
+- 🔭 Atualmente trabalho no Itaú-Unibanco, em Digital Analytics em Marketing. 
 
 - 🌱 Estou aprendendo e me dedicando a Ciência de Dados, estudando e quebrando a cabeça com estatísitca e Machile Learning.
 
