@@ -8,7 +8,7 @@ Meu nome é Renato Turtienski e:
 
 - 💬 Pergunte-me sobre matemática, estátistica, algoritmos e estruturação de dados.
 
-- 🤔 Estou procurando ajuda em estatística, algoritmos e estruturação de dados, matemática a gente dá um jeito, tem muito material bom no Youtube! 
+- 🤔 Estou procurando ajuda em estatística, algoritmos e estruturação de dados; matemática a gente dá um jeito, tem muito material bom no Youtube! 
 
 - ⚡ Fato divertido: toco violão mas sou péssimo cantor, por isso preferi partir pra música clássica. Gosto muito de xadrez, mas estudar xadrez é outra história...  
 
