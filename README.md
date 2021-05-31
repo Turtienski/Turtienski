@@ -1,8 +1,8 @@
 ### Olá, seja bem-vindo ao meu GitHub 👋
 
-Meu nome é Renato Turtienski e:
+Meu nome é Renato Turtienski, atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
 
-- 🌱 Estou aprendendo e me dedicando a Ciência de Dados, estudando e quebrando a cabeça com estatísitca e Machile Learning.
+- 🌱 Estou aprendendo e me dedicando a Engenharia e Ciência de Dados, estudando e quebrando a cabeça com estatísitca e Machile Learning.
 
 - 💬 Pergunte-me sobre matemática, estátistica, algoritmos e estruturação de dados.
 
