@@ -11,7 +11,8 @@ Atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
 - ⚡ Fato divertido: toco violão mas sou péssimo cantor, por isso preferi partir pra música clássica. Gosto muito de xadrez, mas estudar xadrez é outra história...  
 
 - :email: você pode me contatar por email, renatoturtienskipossa@gmail.com
-- :minhas redes sociais: <img height="30" widht="40" src="https://image.flaticon.com/icons/png/512/174/174857.png">
+
+- 💻minhas redes sociais: <i href="https://instagram.com/renato_turtienski"> <img height="30" widht="40" src="https://image.flaticon.com/icons/png/512/174/174857.png"></i> <a href="https://instagram.com/renato_turtienski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <div>
   <a href="https://github.com/Turtienski">
@@ -28,10 +29,6 @@ Atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
   <img align="center" alt="turtienski-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="turtienski-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 
-<div> 
-  <a href="https://instagram.com/renato_turtienski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-</div>
   
 
 <!--
