@@ -14,8 +14,8 @@ Meu nome é Renato Turtienski, atualmente trabalho no Itaú Unibanco como engenh
 
 <div>
   <a href="https://github.com/Turtienski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisDeveloper&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
-  <img  height="180em" alt="gif" src="https://64.media.tumblr.com/3d2ceb6d15a36c8bb1a02ffc923279c2/tumblr_p3sj7feavw1weyvovo3_500.gifv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Turtienski&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
+  <img  height="180em" alt="gif" src="https://media4.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif?cid=ecf05e47txwr6ok2j6rnc8o0foo0tv6qrqu1xwi1fw0l8i7p&rid=giphy.gif&ct=g">
 
 
 <!--
