@@ -12,7 +12,7 @@ Atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
 
 - :email: você pode me contatar por email, renatoturtienskipossa@gmail.com
 
-- 💻minhas redes sociais: <i href="https://www.linkedin.com/in/renato-turtienski-possa-0599b051/" target="_blank"> <img height="30" widht="40" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank"></i> <a href="https://instagram.com/renato_turtienski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <w href="https://instagram.com/renato_turtienski" target="_blank"><img height="30" widht="40" src="https://image.flaticon.com/icons/png/512/174/174879.png" target="_blank"></w>
+- 💻minhas redes sociais: <i href="https://www.linkedin.com/in/renato-turtienski-possa-0599b051/" target="_blank"> <img height="30" widht="40" src="https://image.flaticon.com/icons/png/512/174/174857" target="_blank"></i> <a href="https://instagram.com/renato_turtienski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <w href="https://instagram.com/renato_turtienski" target="_blank"><img height="30" widht="40" src="https://image.flaticon.com/icons/png/512/174/174879.png" target="_blank"></w>
 
 
 
