@@ -11,6 +11,7 @@ Atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
 - ⚡ Fato divertido: toco violão mas sou péssimo cantor, por isso preferi partir pra música clássica. Gosto muito de xadrez, mas estudar xadrez é outra história...  
 
 - :email: você pode me contatar por email, renatoturtienskipossa@gmail.com
+- :minhas redes sociais: <img height="30" widht="40" src="https://image.flaticon.com/icons/png/512/174/174857.png">
 
 <div>
   <a href="https://github.com/Turtienski">
