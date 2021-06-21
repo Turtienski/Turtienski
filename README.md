@@ -26,7 +26,7 @@ Atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
   <img align="center" alt="turtienski-gcp" height="60" src="https://raw.githubusercontent.com/Turtienski/Turtienski/master/.github/workflows/google_cloud_logo_icon_170066.svg">
   <img align="center" alt="turtienski-bq" height="60"  src="https://raw.githubusercontent.com/Turtienski/Turtienski/master/.github/workflows/bigquery.svg">
   <img align="center" alt="turtienski-aws" height="60" src="https://raw.githubusercontent.com/Turtienski/Turtienski/master/.github/workflows/cdnlogo_amazon-s3.svg">
-  <img align="center" alt="turtienski-hadoop" hheight="60" width="80"  src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg">
+  <img align="center" alt="turtienski-hadoop" hheight="60" src="https://www.qrapp.org.uk/images/hadoop-consulting-and-support.svg">
   <img align="center" alt="turtienski-java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="turtienski-c" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="turtienski-Haskell" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
