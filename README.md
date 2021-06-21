@@ -12,6 +12,9 @@ Meu nome é Renato Turtienski, atualmente trabalho no Itaú Unibanco como engenh
 
 - :email: você pode me contatar por email, renatoturtienskipossa@gmail.com
 
+href="https://github.com/Turtienski"
+
+
 <!--
 **Turtienski/Turtienski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
