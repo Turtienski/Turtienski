@@ -12,7 +12,10 @@ Meu nome é Renato Turtienski, atualmente trabalho no Itaú Unibanco como engenh
 
 - :email: você pode me contatar por email, renatoturtienskipossa@gmail.com
 
-href="https://github.com/Turtienski"
+<div>
+  <a href="https://github.com/Turtienski">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisDeveloper&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
+  <img  height="180em" alt="gif" src="https://64.media.tumblr.com/3d2ceb6d15a36c8bb1a02ffc923279c2/tumblr_p3sj7feavw1weyvovo3_500.gifv">
 
 
 <!--
