@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fato divertido: toco violão mas sou péssimo cantor, por isso preferi partir pra música clássica. 
 - :email: você pode me contatar por email por renatoturtienskipossa@gmail.com
 -->
+
+![Snake animation](https://github.com/ThaisDeveloper/ThaisDeveloper/blob/output/github-contribution-grid-snake.svg)
