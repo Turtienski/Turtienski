@@ -14,7 +14,7 @@ Atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
 
 - 💻minhas redes sociais: <a href="https://www.linkedin.com/in/renato-turtienski-possa-0599b051/" target="_blank"> <img height="30" widht="40" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5511981044550&text=Ol%C3%A1%20Renato,%20como%0Avoc%C3%AA%20est%C3%A1?%20Te%20encontrei%20pelo%20GitHub.%20%22Bora%20trocar%20uma%20ideia%22?%20%E2%98%BA%EF%B8%8F%0A" target="_blank"><img height="30" widht="40" src="https://image.flaticon.com/icons/png/512/174/174879.png" target="_blank"></a> <a href="https://instagram.com/renato_turtienski" target="_blank"><img height="30" widht="40"  src="https://image.flaticon.com/icons/png/512/174/174855.png" target="_blank"></a> 
 
-
+<a href="https://www.seekpng.com/ipng/u2e6i1u2r5y3i1e6_we-are-proud-google-cloud-service-partners-google/" target="_blank">We Are Proud Google Cloud Service Partners - Google Cloud Platform Logo Svg @seekpng.com</a>
 
 <div>
   <a href="https://github.com/Turtienski">
@@ -23,7 +23,7 @@ Atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
 </div>
    <div style="display: inline_block"><br>
   <img align="center" alt="turtienski-py" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="turtienski-gcp" height="60" src="https://raw.githubusercontent.com/Turtienski/Turtienski/master/.github/workflows/Google_Cloud_Platform-Logo.wine.svg">
+  <img align="center" alt="turtienski-gcp" height="60" src="https://raw.githubusercontent.com/Turtienski/Turtienski/master/.github/workflows/google_cloud_logo_icon_170066.svg">
   <img align="center" alt="turtienski-bq" height="60"  src="https://raw.githubusercontent.com/Turtienski/Turtienski/master/.github/workflows/bigquery.svg">
   <img align="center" alt="turtienski-aws" height="60" src="https://raw.githubusercontent.com/Turtienski/Turtienski/master/.github/workflows/cdnlogo_amazon-s3.svg">
   <img align="center" alt="turtienski-hadoop" hheight="60" width="80"  src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg">
