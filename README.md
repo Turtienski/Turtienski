@@ -15,8 +15,15 @@ Meu nome é Renato Turtienski, atualmente trabalho no Itaú Unibanco como engenh
 <div>
   <a href="https://github.com/Turtienski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Turtienski&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
-  <img  height="180em" alt="gif" src="https://media4.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif?cid=ecf05e47txwr6ok2j6rnc8o0foo0tv6qrqu1xwi1fw0l8i7p&rid=giphy.gif&ct=g">
-
+  <img  height="180em" alt="gif" src="https://media1.giphy.com/media/yxO8bvm9KKSpGPCBM8/giphy.gif?cid=ecf05e47lzpwuijntmt22n5q11lqc3jhz8f216cgzdnodr5c&rid=giphy.gif&ct=g">
+</div>
+   <div style="display: inline_block"><br>
+  <img align="center" alt="turtienski-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="turtienski-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="turtienski-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="turtienski-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+  <img align="center" alt="turtienski-hadoop" height="30" width="40" src="https://pngimage.net/wp-content/uploads/2018/06/hadoop-icon-png-6.png">
+</div>
 
 <!--
 **Turtienski/Turtienski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
