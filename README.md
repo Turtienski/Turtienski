@@ -23,13 +23,13 @@ Atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
 </div>
    <div style="display: inline_block"><br>
   <img align="center" alt="turtienski-py" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="turtienski-gcp" height="120" width="160" src="https://github.com/Turtienski/Turtienski/blob/master/.github/workflows/Google_Cloud_Platform-Logo.wine.svg">
-  <img align="center" alt="turtienski-bq" height="30" width="40" src="https://www.pikpng.com/pngl/b/314-3143797_google-big-query-logo-google-bigquery-logo-clipart.png">
-  <img align="center" alt="turtienski-hadoop" height="30" width="40" src="https://pngimage.net/wp-content/uploads/2018/06/hadoop-icon-png-6.png">
-  <img align="center" alt="turtienski-aws" height="30" width="20" src="https://github.com/Turtienski/Turtienski/blob/master/.github/workflows/Google_Cloud_Platform-Logo.wine.svg">
-  <img align="center" alt="turtienski-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="turtienski-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="turtienski-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+  <img align="center" alt="turtienski-gcp" height="160" width="200" src="https://github.com/Turtienski/Turtienski/blob/master/.github/workflows/Google_Cloud_Platform-Logo.wine.svg">
+  <img align="center" alt="turtienski-bq" height="160" width="200"  src="https://www.pikpng.com/pngl/b/314-3143797_google-big-query-logo-google-bigquery-logo-clipart.png">
+  <img align="center" alt="turtienski-hadoop" hheight="60" width="80"  src="https://pngimage.net/wp-content/uploads/2018/06/hadoop-icon-png-6.png">
+  <img align="center" alt="turtienski-aws" height="160" width="200" src="https://github.com/Turtienski/Turtienski/blob/master/.github/workflows/Google_Cloud_Platform-Logo.wine.svg">
+  <img align="center" alt="turtienski-java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="turtienski-c" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="turtienski-Haskell" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 
   
 
