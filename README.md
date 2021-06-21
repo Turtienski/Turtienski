@@ -19,13 +19,18 @@ Meu nome é Renato Turtienski, atualmente trabalho no Itaú Unibanco como engenh
 </div>
    <div style="display: inline_block"><br>
   <img align="center" alt="turtienski-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="turtienski-gcp" height="30" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/05/google-cloud-platform-logo.png">
+  <img align="center" alt="turtienski-gcp" height="30" width="60" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/05/google-cloud-platform-logo.png">
   <img align="center" alt="turtienski-bq" height="30" width="40" src="https://www.pikpng.com/pngl/b/314-3143797_google-big-query-logo-google-bigquery-logo-clipart.png">
   <img align="center" alt="turtienski-hadoop" height="30" width="40" src="https://pngimage.net/wp-content/uploads/2018/06/hadoop-icon-png-6.png">
-  <img align="center" alt="turtienski-aws" height="30" width="40" src="https://img.icons8.com/color/50/000000/amazon-web-services.png">
+  <img align="center" alt="turtienski-aws" height="30" width="20" src="https://img.icons8.com/color/50/000000/amazon-web-services.png">
   <img align="center" alt="turtienski-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="turtienski-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="turtienski-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+
+<div> 
+  <a href="https://instagram.com/renato_turtienski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>
   
 
 <!--
