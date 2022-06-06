@@ -12,7 +12,7 @@ Atualmente trabalho no Itaú Unibanco como engenheiro de dados e:
 
 - :email: você pode me contatar por email, renatoturtienskipossa@gmail.com
 
-- 💻minhas redes sociais: <a href="https://www.linkedin.com/in/renato-turtienski-possa-0599b051/" target="_blank"> <img height="30" widht="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5511981044550&text=Ol%C3%A1%20Renato,%20como%20voc%C3%AA%20est%C3%A1?%0ATe%20encontrei%20pelo%20GitHub.%20%22Bora%20trocar%20uma%20ideia%22?%20%E2%98%BA%EF%B8%8F%0A" target="_blank"><img height="30" widht="40" src="https://www.designi.com.br/images/preview/10000404.jpg" target="_blank"></a> <a href="https://instagram.com/renato_turtienski" target="_blank"><img height="30" widht="40"  src="https://image.flaticon.com/icons/png/512/174/174855.png" target="_blank"></a> 
+- 💻minhas redes sociais: <a href="https://www.linkedin.com/in/renato-turtienski-possa-0599b051/" target="_blank"> <img height="30" widht="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5511981044550&text=Ol%C3%A1%20Renato,%20como%20voc%C3%AA%20est%C3%A1?%0ATe%20encontrei%20pelo%20GitHub.%20%22Bora%20trocar%20uma%20ideia%22?%20%E2%98%BA%EF%B8%8F%0A" target="_blank"><img height="30" widht="40" src="https://cdn-icons-png.flaticon.com/512/1383/1383269.png" target="_blank"></a> <a href="https://instagram.com/renato_turtienski" target="_blank"><img height="30" widht="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png" target="_blank"></a> 
 
 
 <div>
