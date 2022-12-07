@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 - :email: você pode me contatar por email por renatoturtienskipossa@gmail.com
 -->
 
-![Snake animation](https://github.com/ThaisDeveloper/ThaisDeveloper/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif?auto=format,compress&gif-q=60&format=webm)
